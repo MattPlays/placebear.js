@@ -1,0 +1,1 @@
+export default async function(width: number, height: number, downloadPath: string): Promise<void>
