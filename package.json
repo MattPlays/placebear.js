@@ -1,6 +1,6 @@
 {
   "name": "placebear.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "placebear.js utilizes the placebear API to download placeholder pictures of bears",
   "main": "index.js",
   "types": "index.d.ts",
